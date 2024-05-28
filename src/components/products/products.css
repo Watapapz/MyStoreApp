@@ -1,0 +1,16 @@
+
+.productCard {
+    --background: #ffffff;
+    width: 150px;
+    height: 200px;
+}
+
+.productCard .title {
+    font-size: 20px;
+    --color: #000000;
+}
+
+.productCard .description {
+    font-size: 10px;
+    --color: #888888;
+}
